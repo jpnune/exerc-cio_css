@@ -107,3 +107,15 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#financas {
+    background-color: #eeeeFF;
+}
+
+#saude {
+    background-color: #ffdede;
+}
+
+#saude .articles article a {
+    background-color: #bb3333;
+}
